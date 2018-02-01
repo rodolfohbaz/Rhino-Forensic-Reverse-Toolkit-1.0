@@ -20,7 +20,6 @@ AUTORS<br>
 --------<br>                            
 -- Li. Rodolfo H. Baz<br>
 -- Isc. Alma Delia Rodriguez Gordillo <br>
-
 WEB<br>
 --------<br><br> 
 www.rhino.org.mx
