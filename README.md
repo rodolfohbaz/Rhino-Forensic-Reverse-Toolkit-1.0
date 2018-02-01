@@ -19,7 +19,7 @@ SECTIONS<br>
 
 
 AUTORS<br>
---------<br><br>                             
+--------<br>                            
 -- Li. Rodolfo H. Baz<br>
 -- Isc. Alma Delia Rodriguez Gordillo <br>
 
