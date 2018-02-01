@@ -3,7 +3,7 @@ Rhino Forensic &amp; Reverse Toolkit ® es un toolkit destinado a proporcionar e
 
 --------
 <H3>SECTIONS</H3>
---------<br><br>
+<br><br>
 -- Analysis<br>
 -- Crypto Tools<br>
 -- Decompilers<br>
@@ -17,11 +17,11 @@ Rhino Forensic &amp; Reverse Toolkit ® es un toolkit destinado a proporcionar e
 -- Switch Parameters Tools<br>
 -- Unpackers<br><BR>
 <H3>AUTORS</H3>
---------<br>                            
+<br>                            
 -- Li. Rodolfo H. Baz<br>
 -- Isc. Alma Delia Rodriguez Gordillo <br>
 <BR><H3>WEB</H3>
---------<br> 
+<br> 
 www.rhino.org.mx<BR>
 
 
@@ -34,7 +34,7 @@ Torrent:  <a href="https://www.rhino.org.mx/416/Rhino Forensic & Reverse Toolkit
 
 
 
-<BR>GNU GENERAL PUBLIC LICENSE
+<BR><br>GNU GENERAL PUBLIC LICENSE
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
 
