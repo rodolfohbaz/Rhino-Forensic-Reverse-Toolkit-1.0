@@ -26,6 +26,8 @@ www.rhino.org.mx<BR>
 
 
 <BR><H3>DOWNLOAD</H3>
+ 
+ MD5 CHECKSUM:  b93effdd97290137765dba00146f253a
 
 
 
