@@ -23,7 +23,6 @@ Rhino Forensic &amp; Reverse Toolkit ® es un toolkit destinado a proporcionar e
 <BR><H3>WEB</H3>
 --------<br> 
 www.rhino.org.mx<BR>
-
 GNU GENERAL PUBLIC LICENSE
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
