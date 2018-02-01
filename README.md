@@ -29,9 +29,7 @@ www.rhino.org.mx<BR>
 
 -- MD5 Checksum: b93effdd97290137765dba00146f253a<br>
 -- Size:  87.5 MB (91,816,617 bytes)<br><br>
-Torrent for Windows: <a href="https://www.rhino.org.mx/416/Rhino Forensic & Reverse Toolkit 1.0.torrent"> RPTV10>
-
- <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a> 
+Torrent for Windows:  <a href="Rhino Forensic & Reverse Toolkit 1.0.torrent">Rhino Forensic & Reverse Toolkit 1.0.torrent</a> 
 
 
 <BR><br>GNU GENERAL PUBLIC LICENSE
