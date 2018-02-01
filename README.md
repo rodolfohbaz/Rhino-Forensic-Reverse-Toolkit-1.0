@@ -33,4 +33,4 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
 
-(C) Copyright Centro de Investigaciones en Seguridad Informática ±±±
+Centro de Investigaciones en Seguridad Informática ±±±
