@@ -25,10 +25,9 @@ Rhino Forensic &amp; Reverse Toolkit ® es un toolkit destinado a proporcionar e
 www.rhino.org.mx<BR>
 
 
-<BR><H3>DOWNLOAD</H3>
- 
- MD5 CHECKSUM:  b93effdd97290137765dba00146f253a
-
+ <H3>DOWNLOAD</H3>
+--------<br><br>
+-- MD5 Checksum: b93effdd97290137765dba00146f253a<br>
 
 
 
