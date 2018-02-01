@@ -16,11 +16,11 @@ Rhino Forensic &amp; Reverse Toolkit ® es un toolkit destinado a proporcionar e
 -- Rebuilding<br>
 -- Switch Parameters Tools<br>
 -- Unpackers<br><BR>
-AUTORS<br>
+<H3>AUTORS</H3><br>
 --------<br>                            
 -- Li. Rodolfo H. Baz<br>
 -- Isc. Alma Delia Rodriguez Gordillo <br>
-<BR>WEB<br>
+<BR><H3>WEB</H3><br>
 --------<br> 
 www.rhino.org.mx<BR>
 
