@@ -3,7 +3,7 @@ Rhino Forensic &amp; Reverse Toolkit ® es un toolkit destinado a proporcionar e
 
 --------
 <H3>SECTIONS</H3>
-<br><br>
+<br>
 -- Analysis<br>
 -- Crypto Tools<br>
 -- Decompilers<br>
@@ -17,7 +17,7 @@ Rhino Forensic &amp; Reverse Toolkit ® es un toolkit destinado a proporcionar e
 -- Switch Parameters Tools<br>
 -- Unpackers<br><BR>
 <H3>AUTORS</H3>
-<br>                            
+                            
 -- Li. Rodolfo H. Baz<br>
 -- Isc. Alma Delia Rodriguez Gordillo <br>
 <BR><H3>WEB</H3>
